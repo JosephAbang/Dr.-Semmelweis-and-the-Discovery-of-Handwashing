@@ -9,7 +9,8 @@ Do you think childbirth is risky now?  In the early 1840s at the Vienna General 
 * Births
 * Deaths
 * Clinic
-<br> I visualized this data using plots and determined the effects of handwashing on the high level of deaths in Vienna General Hospital.
+<br> 
+I visualized this data using plots and determined the effects of handwashing on the high level of deaths in Vienna General Hospital.
 
 # Summary of findings 
 Handwashing reduced the proportion of deaths by between 6.7 and 10 percentage points.
